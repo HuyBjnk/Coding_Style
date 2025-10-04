@@ -1,2 +1,3 @@
 # Coding_Style
-for Embedded C
+Embedded C Coding Standard
+
